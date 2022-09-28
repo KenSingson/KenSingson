@@ -36,3 +36,4 @@ I am a automation engineer with an interest in Cloud Computing, DevOps & Softwar
 ### Let's Connect
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ken-nicolas-singson-220464148)
+[![website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.seseri.co)
