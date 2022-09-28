@@ -35,4 +35,4 @@ I am a automation engineer with an interest in AWS, DevOps & Software Engineerin
 
 ### Let's Connect
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/ken-nicolas-singson-220464148)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ken-nicolas-singson-220464148)
