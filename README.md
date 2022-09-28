@@ -1,6 +1,6 @@
-# Hi! My name is Ken.
+# Hi!, My name is Ken.
 
-I am a automation engineer with an interest in AWS, DevOps & Software Engineering.
+I am a automation engineer with an interest in Cloud Computing, DevOps & Software Engineering.
 
 - 🌱 Currently, I'm learning some DevOps tools like Ansible, Go, Terraform, AWS, Docker and Kubernetes.
 - :desktop_computer: Check out some of my DevOps projects here ~
