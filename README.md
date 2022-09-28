@@ -7,4 +7,10 @@ I am a automation engineer with an interest in AWS, DevOps & Software Engineerin
 
 ### Tech Stack
 
-![Python](https://img.shields.io/badge/Python-F18F01?style=for-the-badge&logo=python&logoColor=#000)
+:black_medium_square: Python
+:black_medium_square: Go
+:black_medium_square: Ansible
+:black_medium_square: Terraform
+:black_medium_square: Docker
+:black_medium_square: Kubernetes
+:black_medium_square: Amazon Web Services (AWS)
