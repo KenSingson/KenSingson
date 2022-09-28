@@ -21,7 +21,7 @@ I am a automation engineer with an interest in AWS, DevOps & Software Engineerin
 
 ##### Tools
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) <br />
-CodePipeline
+- CodePipeline
 - Terraform
 - Ansible
 - Docker
@@ -32,3 +32,7 @@ CodePipeline
 - [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/dc03f9bb-f99a-405b-b7ef-4b5e16d3461a/public_url)
 - [ITIL 4 ® Foundation](https://www.credly.com/badges/7cf6275c-96f5-4e16-a649-dd600e9b445e/public_url)
 - [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/df4ee601-d6a4-4cf1-acb2-455ff32bbc6b/public_url)
+
+### Let's Connect
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/ken-nicolas-singson-220464148)
