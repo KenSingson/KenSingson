@@ -3,7 +3,7 @@
 I'm an automation engineer with an interest in Cloud Computing, DevOps & Software Engineering.
 
 - 🌱 Currently, I'm learning some DevOps tools like Ansible, Go, Terraform, AWS, Docker and Kubernetes.
-- :desktop_computer: Check out some of my DevOps projects here ~
+- :desktop_computer: Check out some of my DevOps projects here ~ See pinned repositories below.
 
 ### Tech Stack
 
